@@ -30,7 +30,7 @@ section#celular {
     transform: translate(-50%, -50%);
     height: 454px;
     width: 225px;
-    background: white url('../pacote-d013/imagens/frame-iphone.png' ) no-repeat;
+    background: url('../pacote-d013/imagens/frame-iphone.png' ) no-repeat;
 }
 
 iframe#tela {
